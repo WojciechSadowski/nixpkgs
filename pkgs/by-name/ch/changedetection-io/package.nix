@@ -27,6 +27,7 @@ python3.pkgs.buildPythonApplication rec {
     dnspython
     elementpath
     eventlet
+    extruct
     feedgen
     flask
     flask-compress
